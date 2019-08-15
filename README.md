@@ -1,2 +1,5 @@
 # Aerial-Cactus-Identification-Using-Pytorch
-A classified built using Pytorch to predict if an image contains any cactus
+
+This is a Kaggle Project named Aerial Cactus Identification.
+
+I have built a classifier using Pytorch to predict if an image contains any cactus.
