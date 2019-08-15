@@ -1,4 +1,4 @@
-# Aerial-Cactus-Identification-Using-Pytorch
+# Aerial Cactus Identification Using Pytorch
 
 This is a Kaggle Project named Aerial Cactus Identification.
 
